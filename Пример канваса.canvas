@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4b900a18fcef092f","x":-540,"y":-595,"width":250,"height":60,"color":"1","type":"text","text":"ddd"},
+		{"id":"cbfd6e534096ad64","x":-60,"y":-680,"width":260,"height":230,"type":"file","file":"Что умеет obsidian.md"},
+		{"id":"262391978733ea34","x":-541,"y":-315,"width":250,"height":235,"type":"text","text":"df"}
+	],
+	"edges":[
+		{"id":"0e7f93c781e49276","fromNode":"4b900a18fcef092f","fromSide":"right","toNode":"cbfd6e534096ad64","toSide":"left","fromEnd":"arrow","label":"ttt"},
+		{"id":"1d623a25836c1bff","fromNode":"4b900a18fcef092f","fromSide":"bottom","toNode":"262391978733ea34","toSide":"top"}
+	]
+}
